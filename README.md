@@ -4,3 +4,5 @@
 <p>A plataforma oferece menu com diversas subcategorias com diversos recursos desde infraestrutura até serviços para aplicações </p>
 <h3>Aparência</h3>
 <p>É possível alterar o tema com diversas cores e diferente posições do menu de opções </p>
+<h3>Recursos</h3>
+<p>Banco de dados, Machine Learning, Máquinas virtuais, Container, Clusters</p>
